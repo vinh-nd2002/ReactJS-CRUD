@@ -17,7 +17,7 @@ class UserInfo extends Component {
 
     return (
       <div className="nav-link">
-        longvv <div className="vr align-middle mx-2" />{" "}
+        NguDuyVinh <div className="vr align-middle mx-2" />{" "}
         <span onClick={this.handleClickLogout}>Logout</span>
       </div>
     )
